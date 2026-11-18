@@ -19,3 +19,11 @@ Ce projet vise à mettre en pratique les concepts du module 321. Les objectifs i
 * Appliquer les principes de la programmation fonctionnelle.
 * Réaliser un programme informatique de qualité.
 * Utiliser un système de versioning de code comme Git de manière professionnelle.
+
+## Analye fonctionnelle
+
+- **[US1](https://github.com/alberrboyyy/BitRuisseau/issues/1)**
+- **[US2](https://github.com/alberrboyyy/BitRuisseau/issues/2)**
+- **[US3](https://github.com/alberrboyyy/BitRuisseau/issues/3)**
+- **[US4](https://github.com/alberrboyyy/BitRuisseau/issues/4)**
+- **[US5](https://github.com/alberrboyyy/BitRuisseau/issues/5)**
